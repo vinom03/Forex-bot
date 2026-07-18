@@ -7,7 +7,7 @@ from html import unescape
 import requests
 from bs4 import BeautifulSoup
 
-# التوكن الآن يُقرأ من متغير بيئة (GitHub Secret) بدل ما يكون مكتوب هنا مباشرة
+# التوكن الآن يُقرأ من متغير بيئة (GitHub Secret) بدل ما يكون مكتوب هنا مباشرة 
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 if not BOT_TOKEN:
     raise SystemExit(
