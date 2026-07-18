@@ -1,0 +1,37 @@
+name: Telegram Forwarder Bot
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # يشتغل تلقائياً كل 5 دقائق
+  workflow_dispatch:         # يسمح لك بتشغيله يدوياً من واجهة GitHub لتجربته فوراً
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write        # ضروري عشان يقدر يحفظ آخر منشور بملف last_seen_id.txt
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run bot
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+        run: python telegram_forwarder_fixed.py
+
+      - name: Save last seen post id back to the repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add last_seen_id.txt
+          git diff --staged --quiet || git commit -m "تحديث آخر منشور تمت معالجته"
+          git push
