@@ -27,3 +27,15 @@
 البوت اشتغل - يتحقق من منشورات جديدة...
 --- 2026-07-19 17:11:19 UTC ---
 البوت اشتغل - يتحقق من منشورات جديدة...
+--- 2026-07-19 18:06:32 UTC ---
+البوت اشتغل - يتحقق من منشورات جديدة...
+إرسال نص: 200 {"ok":true,"result":{"message_id":4060,"sender_chat":{"id":-1002185993091,"title":"Forex Gold Pro | \u0644\u0640\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0630\u0647\u0628","username":"ForexGold_Pro
+تم نسخ منشور جديد بنجاح ✅ 41133
+إرسال نص: 200 {"ok":true,"result":{"message_id":4061,"sender_chat":{"id":-1002185993091,"title":"Forex Gold Pro | \u0644\u0640\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0630\u0647\u0628","username":"ForexGold_Pro
+تم نسخ منشور جديد بنجاح ✅ 41134
+إرسال صورة: 200 {"ok":true,"result":{"message_id":4062,"sender_chat":{"id":-1002185993091,"title":"Forex Gold Pro | \u0644\u0640\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0630\u0647\u0628","username":"ForexGold_Pro
+تم نسخ منشور جديد بنجاح ✅ 41135
+إرسال نص: 200 {"ok":true,"result":{"message_id":4063,"sender_chat":{"id":-1002185993091,"title":"Forex Gold Pro | \u0644\u0640\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0630\u0647\u0628","username":"ForexGold_Pro
+تم نسخ منشور جديد بنجاح ✅ 41136
+إرسال نص: 200 {"ok":true,"result":{"message_id":4064,"sender_chat":{"id":-1002185993091,"title":"Forex Gold Pro | \u0644\u0640\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0630\u0647\u0628","username":"ForexGold_Pro
+تم نسخ منشور جديد بنجاح ✅ 41137
