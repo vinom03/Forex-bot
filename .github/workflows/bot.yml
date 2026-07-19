@@ -9,7 +9,7 @@ jobs:
   run-bot:
     runs-on: ubuntu-latest
     permissions:
-      contents: write        # ضروري عشان يقدر يحفظ آخر منشور بملف last_seen_id.txt
+      contents: write        # ضروري عشان يقدر يحفظ آخر منشور وسجل التشغيل بالمستودع
 
     steps:
       - name: Checkout repository
@@ -28,10 +28,11 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
         run: python telegram_forwarder_fixed.py
 
-      - name: Save last seen post id back to the repo
+      - name: Save last seen post id and log back to the repo
+        if: always()   # يشتغل حتى لو خطوة "Run bot" فشلت، عشان السجل ما يضيع وقت الخطأ
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add last_seen_id.txt
-          git diff --staged --quiet || git commit -m "تحديث آخر منشور تمت معالجته"
+          git add last_seen_id.txt bot_log.txt
+          git diff --staged --quiet || git commit -m "تحديث آخر منشور وسجل التشغيل"
           git push
