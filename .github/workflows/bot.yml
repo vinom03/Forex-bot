@@ -1,3 +1,20 @@
+# ============================================================
+# ملف جدولة GitHub Actions - بوت نسخ منشورات تيليجرام
+# ============================================================
+# مكان الرفع الإلزامي: .github/workflows/bot.yml (بالضبط بهذا المسار
+# داخل المستودع، وإلا GitHub ما يتعرف عليه كجدولة).
+#
+# الوظيفة: يشغّل ملف telegram_forwarder_fixed.py تلقائياً كل 5 دقائق
+# (أقصر فترة يسمح بها GitHub)، ويحفظ أي تحديث بملفات last_seen_id.txt
+# و bot_log.txt داخل المستودع نفسه بعد كل تشغيلة.
+#
+# قبل الاستخدام:
+#   1. أضف توكن البوت كـ GitHub Secret باسم BOT_TOKEN
+#      (Settings -> Secrets and variables -> Actions -> New repository secret)
+#   2. فعّل صلاحية الكتابة: Settings -> Actions -> General ->
+#      Workflow permissions -> Read and write permissions -> Save
+# ============================================================
+
 name: Telegram Forwarder Bot
 
 on:
