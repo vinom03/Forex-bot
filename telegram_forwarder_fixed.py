@@ -1,4 +1,4 @@
-"""
+r"""
 ============================================================
 بوت نسخ منشورات تيليجرام - ForexGold Pro
 ============================================================
@@ -33,6 +33,36 @@
 للتعديل مستقبلاً:
     - DEST_CHANNEL / SOURCE_CHANNEL / OWN_SIGNATURE بالأسفل.
     - signature_line بدالة clean_text() لو تغيّرت صياغة توقيع المصدر.
+
+============================================================
+🔧 لو تبي تغيّر القناة المصدر أو قناتك (الوجهة):
+============================================================
+فيه 4 أماكن بس بالكود، كلها معلّمة بـ 🔧 عشان تلقاها بسرعة
+(دور عليها بالبحث Ctrl+F / بحث بصفحة GitHub):
+
+1. SOURCE_CHANNEL  -> اسم القناة المصدر الجديدة، بدون @ وبدون رابط،
+                       بس اسم المستخدم زي ما يبين بعد t.me/
+                       مثال: رابط القناة https://t.me/SomeNews
+                             تكتب: SOURCE_CHANNEL = "SomeNews"
+
+2. DEST_CHANNEL    -> قناتك اللي يوصلها المنشور (مع @ بأولها)
+                       مثال: DEST_CHANNEL = "@MyNewChannel"
+
+3. OWN_SIGNATURE   -> التوقيع اللي ينضاف بدل توقيع المصدر - غيّر
+                       الاسم والرابط ليطابق قناتك الجديدة
+
+4. signature_line  -> جوا دالة clean_text() - نمط (regex) يتعرف على
+                       توقيع القناة المصدر القديمة عشان يحذفه من كل
+                       منشور. *لازم* تغيّره ليطابق توقيع المصدر الجديد،
+                       وإلا توقيعه القديم بيبين مع توقيعك جنب بعض!
+                       افتح أي منشور من القناة المصدر الجديدة، شوف
+                       آخر سطر فيه (عادة اسم القناة)، وخذ الكلمات
+                       الثابتة منه بس (تجاهل الإيموجي والتشكيل).
+                       مثال: لو التوقيع الجديد "قناة الأخبار السريعة"
+                       اكتب: signature_line = re.compile(r'قناة\s*الأخبار\s*السريعة')
+
+⚠️ لو نسيت تعدّل رقم 4: البوت يستمر يشتغل ويرسل عادي، بس توقيع
+   القناة المصدر القديم ما بينحذف (بيبين مكرر مع توقيعك بكل منشور).
 ============================================================
 """
 
@@ -53,8 +83,8 @@ if not BOT_TOKEN:
         "خطأ: لازم تحط توكن البوت بمتغير بيئة اسمه BOT_TOKEN (عن طريق GitHub Secrets)."
     )
 
-DEST_CHANNEL = "@ForexGold_Pro"      # قناتك (وين يترسل المنشور)
-SOURCE_CHANNEL = "ForexBreakingNews"  # القناة المصدر (منين يُجلب المنشور)
+DEST_CHANNEL = "@ForexGold_Pro"      # 🔧 قناتك (وين يترسل المنشور)
+SOURCE_CHANNEL = "ForexBreakingNews"  # 🔧 القناة المصدر (منين يُجلب المنشور)
 
 TELEGRAM_CAPTION_LIMIT = 1024  # حد تيليجرام لطول الكابشن مع الصور
 
@@ -181,7 +211,24 @@ def get_channel_posts():
 # ============================================================
 # تنظيف النص وحذف توقيع القناة المصدر + إضافة توقيعك
 # ============================================================
-OWN_SIGNATURE = "📢 قناة ForexGold Pro || اشترك الآن:\nhttps://t.me/ForexGold_Pro"
+OWN_SIGNATURE = "📢 قناة ForexGold Pro || اشترك الآن:\nhttps://t.me/ForexGold_Pro"  # 🔧
+
+# 🔧 خلي القيمة False لو تبي توقف التنسيق العريض وترجع للنص العادي
+BOLD_TEXT = True
+
+
+def make_bold_html(text):
+    """
+    يجهّز النص عشان يترسل عريض (Bold) عن طريق تنسيق HTML الخاص
+    بتيليجرام. نهرب أحرف &, <, > الخاصة أولاً (شرط تيليجرام لتنسيق
+    HTML)، وبعدين نغلّف النص كامل بوسم <b>.
+    """
+    escaped = (
+        text.replace("&", "&amp;")
+            .replace("<", "&lt;")
+            .replace(">", "&gt;")
+    )
+    return f"<b>{escaped}</b>"
 
 
 def clean_text(text_html):
@@ -198,7 +245,7 @@ def clean_text(text_html):
     # نشيل أسطر التوقيع/الرابط من نهاية المنشور فقط، سطر سطر، ونتوقف
     # فور ما نوصل لأول سطر محتوى حقيقي. هذا يضمن عدم المساس بأي جزء
     # من وسط أو بداية المنشور مهما كان شكله.
-    signature_line = re.compile(r'قناة\s*أ?خبار\s*الفوركس\s*العاجلة')
+    signature_line = re.compile(r'قناة\s*أ?خبار\s*الفوركس\s*العاجلة')  # 🔧 توقيع القناة المصدر
     link_line = re.compile(r'(t\.me|telegram\.me)/', re.IGNORECASE)
     # علامات التشكيل العربية (فتحة، ضمة، كسرة...) - نتجاهلها وقت الفحص بس
     # لأن كلمات زي "أَخبار" (بتشكيل) ما كانت تتطابق مع "أخبار" (بدون تشكيل)
@@ -251,11 +298,37 @@ def download_image(url):
     raise last_error
 
 
+def post_with_retry(url, **kwargs):
+    """
+    يرسل طلب POST لتيليجرام، ولو رجع 429 (Too Many Requests - طلبات
+    كثيرة بوقت قصير) ينتظر بالضبط المدة اللي يطلبها تيليجرام نفسه
+    (retry_after) بدل ما يعتبرها فشل عادي، ويعيد المحاولة تلقائياً.
+    """
+    max_retries = 3
+    r = None
+    for attempt in range(1, max_retries + 1):
+        r = requests.post(url, **kwargs)
+        if r.status_code != 429:
+            return r
+        try:
+            retry_after = r.json().get("parameters", {}).get("retry_after", 5)
+        except Exception:
+            retry_after = 5
+        log(f"⏳ تيليجرام طلب الانتظار {retry_after} ثانية قبل إعادة المحاولة "
+            f"(429 - طلبات كثيرة) - محاولة {attempt}/{max_retries}")
+        time.sleep(retry_after + 1)
+    return r
+
+
 def send_text(text):
     if not text:
         return True
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
-    r = requests.post(url, data={"chat_id": DEST_CHANNEL, "text": text}, timeout=15)
+    payload = {"chat_id": DEST_CHANNEL, "text": text}
+    if BOLD_TEXT:
+        payload["text"] = make_bold_html(text)
+        payload["parse_mode"] = "HTML"
+    r = post_with_retry(url, data=payload, timeout=15)
     log(f"   ↳ رد تيليجرام (نص): {r.status_code} {r.text[:200]}")
     return r.ok and r.json().get("ok", False)
 
@@ -272,9 +345,14 @@ def send_single_photo(photo_url, caption=""):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto"
     payload = {"chat_id": DEST_CHANNEL}
     if caption:
-        payload["caption"] = caption[:TELEGRAM_CAPTION_LIMIT]
+        cap = caption[:TELEGRAM_CAPTION_LIMIT]
+        if BOLD_TEXT:
+            payload["caption"] = make_bold_html(cap)
+            payload["parse_mode"] = "HTML"
+        else:
+            payload["caption"] = cap
     files = {"photo": ("image.jpg", image_bytes)}
-    r = requests.post(url, data=payload, files=files, timeout=30)
+    r = post_with_retry(url, data=payload, files=files, timeout=30)
     log(f"   ↳ رد تيليجرام (صورة): {r.status_code} {r.text[:200]}")
     return r.ok and r.json().get("ok", False)
 
@@ -292,14 +370,19 @@ def send_media_group(photo_urls, caption=""):
         files[field_name] = (f"image{i}.jpg", image_bytes)
         item = {"type": "photo", "media": f"attach://{field_name}"}
         if i == 0 and caption:
-            item["caption"] = caption[:TELEGRAM_CAPTION_LIMIT]
+            cap = caption[:TELEGRAM_CAPTION_LIMIT]
+            if BOLD_TEXT:
+                item["caption"] = make_bold_html(cap)
+                item["parse_mode"] = "HTML"
+            else:
+                item["caption"] = cap
         media.append(item)
 
     if not media:
         return False
 
     api_url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMediaGroup"
-    r = requests.post(api_url, data={"chat_id": DEST_CHANNEL, "media": json.dumps(media)}, files=files, timeout=40)
+    r = post_with_retry(api_url, data={"chat_id": DEST_CHANNEL, "media": json.dumps(media)}, files=files, timeout=40)
     log(f"   ↳ رد تيليجرام (ألبوم): {r.status_code} {r.text[:200]}")
     return r.ok and r.json().get("ok", False)
 
@@ -314,7 +397,9 @@ def send_post(text, photo_urls, post_id):
         log(f"📤 تم إرسال المنشور {post_id} كنص فقط (بدون صورة)")
         return
 
-    caption_fits = len(text) <= TELEGRAM_CAPTION_LIMIT
+    # نترك هامش أمان (20 حرف) بحد الكابشن عشان وسوم <b></b> اللي بتنضاف
+    # وقت التنسيق العريض ما تسبب تجاوز حد تيليجرام (1024 حرف)
+    caption_fits = len(text) <= (TELEGRAM_CAPTION_LIMIT - 20)
     caption = text if caption_fits else ""
 
     if len(photo_urls) == 1:
