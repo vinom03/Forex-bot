@@ -1,35 +1,10 @@
-# ============================================================
-# ملف جدولة GitHub Actions - بوت نسخ منشورات تيليجرام
-# ============================================================
-# مكان الرفع الإلزامي: .github/workflows/main.yml (أو أي اسم .yml
-# داخل هذا المسار بالضبط، وإلا GitHub ما يتعرف عليه كجدولة).
-#
-# الوظيفة: يشغّل ملف telegram_forwarder_fixed.py، ويحفظ أي تحديث
-# بملفات last_seen_id.txt و bot_log.txt و id_map.json داخل المستودع
-# نفسه بعد كل تشغيلة.
-#
-# ملاحظة: الجدولة الداخلية (schedule) معطّلة عمداً بالأسفل، لأن
-# التشغيل الفعلي صار عن طريق cron-job.org (أدق توقيتاً) عبر
-# workflow_dispatch. هذا يمنع تصادم تشغيلتين بنفس الوقت.
-#
-# قبل الاستخدام:
-#   1. أضف توكن البوت كـ GitHub Secret باسم BOT_TOKEN
-#      (Settings -> Secrets and variables -> Actions -> New repository secret)
-#   2. فعّل صلاحية الكتابة: Settings -> Actions -> General ->
-#      Workflow permissions -> Read and write permissions -> Save
-# ============================================================
-
 name: Telegram Forwarder Bot
 
 on:
-   schedule:
-     - cron: '*/5 * * * *'   # معطّلة - التشغيل الفعلي عن طريق cron-job.org
- # workflow_dispatch:         # يسمح لك بتشغيله يدوياً، أو عن طريق cron-job.org
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'
 
-# يمنع تشغيل أكثر من نسخة بنفس الوقت - لو تشغيلة جديدة بدأت وفيه
-# وحدة قديمة لسا شغالة، الجديدة تنتظر لين القديمة تخلص. هذا يمنع
-# تضارب قراءة/كتابة last_seen_id.txt اللي كان يسبب إرسال نفس
-# المنشور مرتين لو تزامنت تشغيلتين.
 concurrency:
   group: telegram-forwarder-bot
   cancel-in-progress: false
@@ -37,8 +12,9 @@ concurrency:
 jobs:
   run-bot:
     runs-on: ubuntu-latest
+
     permissions:
-      contents: write        # ضروري عشان يقدر يحفظ آخر منشور وسجل التشغيل بالمستودع
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -58,11 +34,11 @@ jobs:
         run: python telegram_forwarder_fixed.py
 
       - name: Save last seen post id and log back to the repo
-        if: always()   # يشتغل حتى لو خطوة "Run bot" فشلت، عشان السجل ما يضيع وقت الخطأ
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           touch last_seen_id.txt bot_log.txt id_map.json
           git add last_seen_id.txt bot_log.txt id_map.json
-          git diff --staged --quiet || git commit -m "تحديث آخر منشور وسجل التشغيل"
+          git diff --staged --quiet || git commit -m "Update bot state and logs"
           git push
