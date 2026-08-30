@@ -78,8 +78,8 @@ if not BOT_TOKEN:
         "خطأ: لازم تحط توكن البوت بمتغير بيئة اسمه BOT_TOKEN (عن طريق GitHub Secrets)."
     )
 
-DEST_CHANNEL = "@ForexGold_Pro"      # 🔧 قناتك (وين يترسل المنشور)
-SOURCE_CHANNEL = "bu3oof_fx"  # 🔧 القناة المصدر (منين يُجلب المنشور)
+DEST_CHANNEL = "@CRYPTO_FUTUERS2"      # 🔧 قناتك (وين يترسل المنشور)
+SOURCE_CHANNEL = "XAUUSD_GOLD_SIGNGNALS_786"  # 🔧 القناة المصدر (منين يُجلب المنشور)
 
 TELEGRAM_CAPTION_LIMIT = 1024  # حد تيليجرام لطول الكابشن مع الصور
 
@@ -337,7 +337,7 @@ def clean_text(text_html):
     )
 
     signature_line = re.compile(
-        r'@Abdulrahamn2022',
+        r'@GOLD_PRO804',
         re.IGNORECASE
     )  # 🔧 توقيع القناة المصدر
 
