@@ -180,3 +180,17 @@ TP2 HIT 70+PIPS PROFIT DONE --> No translation was found using the current trans
    ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6606,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
 📤 تم إرسال المنشور 7280 كنص فقط (بدون صورة)
 ✅ تم نسخ المنشور 7280 بنجاح
+--- 2026-09-02 16:34:07 UTC ---
+==================================================
+🤖 البوت اشتغل - يتحقق من منشورات جديدة...
+📍 يراقب من المنشور رقم: 7280
+📊 عدد المنشورات الجديدة: 1
+🔄 معالجة المنشور رقم 7281...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7281 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7281): Received new account thanks ✅✅ --> No translation was found using the current translator. Try another translator?
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7281): Received new account thanks ✅✅ --> No translation was found using the current translator. Try another translator?
+⚠️ فشلت ترجمة المنشور 7281 - راح يترسل بالإنجليزي كما هو (Received new account thanks ✅✅ --> No translation was found using the current translator. Try another translator?)
+   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6607,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7281 مع صورة واحدة
+✅ تم نسخ المنشور 7281 بنجاح
