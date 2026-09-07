@@ -1,133 +1,3 @@
-✏️ تم تنظيف نص المنشور 7304 (حذف توقيع المصدر إن وجد)
-🌐 تم ترجمة المنشور 7304 من الإنجليزي للعربي
-↩️ المنشور 7304 رد على المنشور 7295 (بقناتك: 6621)
-   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6630,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7304 مع صورة واحدة
-↩️ تأكيد: تم إرسال المنشور 7304 كرد حقيقي على رسالتك رقم 6621 بقناتك ✅
-✅ تم نسخ المنشور 7304 بنجاح
---- 2026-09-03 19:21:03 UTC ---
-==================================================
-🤖 البوت اشتغل - يتحقق من منشورات جديدة...
-📍 يراقب من المنشور رقم: 7304
-ℹ️ ما فيه منشورات جديدة هالمرة.
---- 2026-09-03 21:46:06 UTC ---
-==================================================
-🤖 البوت اشتغل - يتحقق من منشورات جديدة...
-📍 يراقب من المنشور رقم: 7304
-ℹ️ ما فيه منشورات جديدة هالمرة.
---- 2026-09-03 23:35:03 UTC ---
-==================================================
-🤖 البوت اشتغل - يتحقق من منشورات جديدة...
-📍 يراقب من المنشور رقم: 7304
-ℹ️ ما فيه منشورات جديدة هالمرة.
---- 2026-09-04 01:19:42 UTC ---
-==================================================
-🤖 البوت اشتغل - يتحقق من منشورات جديدة...
-📍 يراقب من المنشور رقم: 7304
-ℹ️ ما فيه منشورات جديدة هالمرة.
---- 2026-09-04 06:02:03 UTC ---
-==================================================
-🤖 البوت اشتغل - يتحقق من منشورات جديدة...
-📍 يراقب من المنشور رقم: 7304
-📊 عدد المنشورات الجديدة: 2
-🔄 معالجة المنشور رقم 7305...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7305 (حذف توقيع المصدر إن وجد)
-🌐 تم ترجمة المنشور 7305 من الإنجليزي للعربي
-   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6631,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7305 كنص فقط (بدون صورة)
-✅ تم نسخ المنشور 7305 بنجاح
-🔄 معالجة المنشور رقم 7306...
-🔏 المصدر سوى توقيعه بهالمنشور - راح يُحذف ويُضاف توقيعك بدله بعد الترجمة
-✏️ تم تنظيف نص المنشور 7306 (حذف توقيع المصدر إن وجد)
-🌐 تم ترجمة المنشور 7306 من الإنجليزي للعربي
-   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6632,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7306 كنص فقط (بدون صورة)
-✅ تم نسخ المنشور 7306 بنجاح
---- 2026-09-04 11:09:05 UTC ---
-==================================================
-🤖 البوت اشتغل - يتحقق من منشورات جديدة...
-📍 يراقب من المنشور رقم: 7306
-📊 عدد المنشورات الجديدة: 4
-🔄 معالجة المنشور رقم 7307...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7307 (حذف توقيع المصدر إن وجد)
-🌐 تم ترجمة المنشور 7307 من الإنجليزي للعربي
-   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6633,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7307 كنص فقط (بدون صورة)
-✅ تم نسخ المنشور 7307 بنجاح
-🔄 معالجة المنشور رقم 7308...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7308 (حذف توقيع المصدر إن وجد)
-🌐 تم ترجمة المنشور 7308 من الإنجليزي للعربي
-   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6634,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7308 كنص فقط (بدون صورة)
-✅ تم نسخ المنشور 7308 بنجاح
-🔄 معالجة المنشور رقم 7309...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7309 (حذف توقيع المصدر إن وجد)
-🌐 تم ترجمة المنشور 7309 من الإنجليزي للعربي
-↩️ المنشور 7309 رد على المنشور 7308 (بقناتك: 6634)
-   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6635,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7309 مع صورة واحدة
-↩️ تأكيد: تم إرسال المنشور 7309 كرد حقيقي على رسالتك رقم 6634 بقناتك ✅
-✅ تم نسخ المنشور 7309 بنجاح
-🔄 معالجة المنشور رقم 7310...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7310 (حذف توقيع المصدر إن وجد)
-🌐 تم ترجمة المنشور 7310 من الإنجليزي للعربي
-↩️ المنشور 7310 رد على المنشور 7308 (بقناتك: 6634)
-   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6636,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7310 مع صورة واحدة
-↩️ تأكيد: تم إرسال المنشور 7310 كرد حقيقي على رسالتك رقم 6634 بقناتك ✅
-✅ تم نسخ المنشور 7310 بنجاح
---- 2026-09-04 14:57:01 UTC ---
-==================================================
-🤖 البوت اشتغل - يتحقق من منشورات جديدة...
-📍 يراقب من المنشور رقم: 7310
-📊 عدد المنشورات الجديدة: 10
-🔄 معالجة المنشور رقم 7311...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7311 (حذف توقيع المصدر إن وجد)
-🌐 تم ترجمة المنشور 7311 من الإنجليزي للعربي
-   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6637,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7311 كنص فقط (بدون صورة)
-✅ تم نسخ المنشور 7311 بنجاح
-🔄 معالجة المنشور رقم 7312...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7312 (حذف توقيع المصدر إن وجد)
-🌐 تم ترجمة المنشور 7312 من الإنجليزي للعربي
-↩️ المنشور 7312 رد على المنشور 7311 (بقناتك: 6637)
-   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6638,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7312 مع صورة واحدة
-↩️ تأكيد: تم إرسال المنشور 7312 كرد حقيقي على رسالتك رقم 6637 بقناتك ✅
-✅ تم نسخ المنشور 7312 بنجاح
-🔄 معالجة المنشور رقم 7313...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7313 (حذف توقيع المصدر إن وجد)
-🌐 تم ترجمة المنشور 7313 من الإنجليزي للعربي
-↩️ المنشور 7313 رد على المنشور 7311 (بقناتك: 6637)
-   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6639,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7313 مع صورة واحدة
-↩️ تأكيد: تم إرسال المنشور 7313 كرد حقيقي على رسالتك رقم 6637 بقناتك ✅
-✅ تم نسخ المنشور 7313 بنجاح
-🔄 معالجة المنشور رقم 7314...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7314 (حذف توقيع المصدر إن وجد)
-🌐 تم ترجمة المنشور 7314 من الإنجليزي للعربي
-↩️ المنشور 7314 رد على المنشور 7311 (بقناتك: 6637)
-   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6640,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7314 مع صورة واحدة
-↩️ تأكيد: تم إرسال المنشور 7314 كرد حقيقي على رسالتك رقم 6637 بقناتك ✅
-✅ تم نسخ المنشور 7314 بنجاح
-🔄 معالجة المنشور رقم 7315...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7315 (حذف توقيع المصدر إن وجد)
-🌐 تم ترجمة المنشور 7315 من الإنجليزي للعربي
-↩️ المنشور 7315 رد على المنشور 7311 (بقناتك: 6637)
-   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6641,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7315 مع صورة واحدة
-↩️ تأكيد: تم إرسال المنشور 7315 كرد حقيقي على رسالتك رقم 6637 بقناتك ✅
 ✅ تم نسخ المنشور 7315 بنجاح
 🔄 معالجة المنشور رقم 7316...
 ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
@@ -298,3 +168,217 @@
 🤖 البوت اشتغل - يتحقق من منشورات جديدة...
 📍 يراقب من المنشور رقم: 7322
 ℹ️ ما فيه منشورات بالصفحة حالياً.
+--- 2026-09-07 08:40:10 UTC ---
+==================================================
+🤖 البوت اشتغل - يتحقق من منشورات جديدة...
+📍 يراقب من المنشور رقم: 7322
+📊 عدد المنشورات الجديدة: 12
+🔄 معالجة المنشور رقم 7323...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7323 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7323): Received New Account 🔥💯 --> No translation was found using the current translator. Try another translator?
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7323): Received New Account 🔥💯 --> No translation was found using the current translator. Try another translator?
+⚠️ فشلت ترجمة المنشور 7323 - راح يترسل بالإنجليزي كما هو (Received New Account 🔥💯 --> No translation was found using the current translator. Try another translator?)
+↩️ المنشور 7323 رد على المنشور 7322 (بقناتك: 6648)
+   ↳ رد تيليجرام (ألبوم): 200 {"ok":true,"result":[{"message_id":6650,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","use
+📤 تم إرسال المنشور 7323 مع ألبوم من 2 صور
+↩️ تأكيد: تم إرسال المنشور 7323 كرد حقيقي على رسالتك رقم 6648 بقناتك ✅
+✅ تم نسخ المنشور 7323 بنجاح
+🔄 معالجة المنشور رقم 7325...
+🔏 المصدر سوى توقيعه بهالمنشور - راح يُحذف ويُضاف توقيعك بدله بعد الترجمة
+✏️ تم تنظيف نص المنشور 7325 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7325): Account Management Services Available 
+
+Min.... 200$ 
+Profit split 50/50 --> No translation was found using the current translator. Try another translator?
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7325): Account Management Services Available 
+
+Min.... 200$ 
+Profit split 50/50 --> No translation was found using the current translator. Try another translator?
+⚠️ فشلت ترجمة المنشور 7325 - راح يترسل بالإنجليزي كما هو (Account Management Services Available 
+
+Min.... 200$ 
+Profit split 50/50 --> No translation was found using the current translator. Try another translator?)
+↩️ المنشور 7325 رد على منشور 7324 مو موجود بدفتر المطابقة - بيترسل عادي بدون رد
+   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6652,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7325 كنص فقط (بدون صورة)
+✅ تم نسخ المنشور 7325 بنجاح
+🔄 معالجة المنشور رقم 7326...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7326 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7326): Hello guys 🤗 --> No translation was found using the current translator. Try another translator?
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7326): Hello guys 🤗 --> No translation was found using the current translator. Try another translator?
+⚠️ فشلت ترجمة المنشور 7326 - راح يترسل بالإنجليزي كما هو (Hello guys 🤗 --> No translation was found using the current translator. Try another translator?)
+   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6653,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7326 كنص فقط (بدون صورة)
+✅ تم نسخ المنشور 7326 بنجاح
+🔄 معالجة المنشور رقم 7327...
+🔏 المصدر سوى توقيعه بهالمنشور - راح يُحذف ويُضاف توقيعك بدله بعد الترجمة
+✏️ تم تنظيف نص المنشور 7327 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7327): Hi 👋
+
+Can I Manage Your Account..? 
+
+Minimum Start 300$ 400$ 500$ 600$ 700$ 1K$ 5K$ 10K$ Above Unlimited 
+Profit Sharing 50%50
+
+All Payment Methods Available For Profit Sharing.. --> No translation was found using the current translator. Try another translator?
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7327): Hi 👋
+
+Can I Manage Your Account..? 
+
+Minimum Start 300$ 400$ 500$ 600$ 700$ 1K$ 5K$ 10K$ Above Unlimited 
+Profit Sharing 50%50
+
+All Payment Methods Available For Profit Sharing.. --> No translation was found using the current translator. Try another translator?
+⚠️ فشلت ترجمة المنشور 7327 - راح يترسل بالإنجليزي كما هو (Hi 👋
+
+Can I Manage Your Account..? 
+
+Minimum Start 300$ 400$ 500$ 600$ 700$ 1K$ 5K$ 10K$ Above Unlimited 
+Profit Sharing 50%50
+
+All Payment Methods Available For Profit Sharing.. --> No translation was found using the current translator. Try another translator?)
+   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6654,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7327 كنص فقط (بدون صورة)
+✅ تم نسخ المنشور 7327 بنجاح
+🔄 معالجة المنشور رقم 7328...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7328 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7328): 🔴XAUUSD BUY?
+
+📌Entry: — 4400_ 4397
+
+TP1: 4404
+TP2: 4408
+TP3: 4412
+TP4: 4416
+TP5: 4420
+
+❌SL:4390 --> No translation was found using the current translator. Try another translator?
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7328): 🔴XAUUSD BUY?
+
+📌Entry: — 4400_ 4397
+
+TP1: 4404
+TP2: 4408
+TP3: 4412
+TP4: 4416
+TP5: 4420
+
+❌SL:4390 --> No translation was found using the current translator. Try another translator?
+⚠️ فشلت ترجمة المنشور 7328 - راح يترسل بالإنجليزي كما هو (🔴XAUUSD BUY?
+
+📌Entry: — 4400_ 4397
+
+TP1: 4404
+TP2: 4408
+TP3: 4412
+TP4: 4416
+TP5: 4420
+
+❌SL:4390 --> No translation was found using the current translator. Try another translator?)
+   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6655,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7328 كنص فقط (بدون صورة)
+✅ تم نسخ المنشور 7328 بنجاح
+🔄 معالجة المنشور رقم 7329...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7329 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7329): 𝗫𝗔𝗨𝗨𝗦𝗗 ✅✅✅✅✅✅
+TP1 HIT 40+PIPS PROFIT DONE --> No translation was found using the current translator. Try another translator?
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7329): 𝗫𝗔𝗨𝗨𝗦𝗗 ✅✅✅✅✅✅
+TP1 HIT 40+PIPS PROFIT DONE --> No translation was found using the current translator. Try another translator?
+⚠️ فشلت ترجمة المنشور 7329 - راح يترسل بالإنجليزي كما هو (𝗫𝗔𝗨𝗨𝗦𝗗 ✅✅✅✅✅✅
+TP1 HIT 40+PIPS PROFIT DONE --> No translation was found using the current translator. Try another translator?)
+↩️ المنشور 7329 رد على المنشور 7328 (بقناتك: 6655)
+   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6656,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7329 مع صورة واحدة
+↩️ تأكيد: تم إرسال المنشور 7329 كرد حقيقي على رسالتك رقم 6655 بقناتك ✅
+✅ تم نسخ المنشور 7329 بنجاح
+🔄 معالجة المنشور رقم 7330...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7330 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7330): 𝗫𝗔𝗨𝗨𝗦𝗗 ✅✅✅✅✅✅
+TP2 HIT 80+PIPS PROFIT DONE --> No translation was found using the current translator. Try another translator?
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7330): 𝗫𝗔𝗨𝗨𝗦𝗗 ✅✅✅✅✅✅
+TP2 HIT 80+PIPS PROFIT DONE --> No translation was found using the current translator. Try another translator?
+⚠️ فشلت ترجمة المنشور 7330 - راح يترسل بالإنجليزي كما هو (𝗫𝗔𝗨𝗨𝗦𝗗 ✅✅✅✅✅✅
+TP2 HIT 80+PIPS PROFIT DONE --> No translation was found using the current translator. Try another translator?)
+↩️ المنشور 7330 رد على المنشور 7328 (بقناتك: 6655)
+   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6657,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7330 مع صورة واحدة
+↩️ تأكيد: تم إرسال المنشور 7330 كرد حقيقي على رسالتك رقم 6655 بقناتك ✅
+✅ تم نسخ المنشور 7330 بنجاح
+🔄 معالجة المنشور رقم 7331...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7331 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7331): 𝗫𝗔𝗨𝗨𝗦𝗗 ✅✅✅✅✅✅
+TP3 HIT 120+PIPS PROFIT DONE --> No translation was found using the current translator. Try another translator?
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7331): 𝗫𝗔𝗨𝗨𝗦𝗗 ✅✅✅✅✅✅
+TP3 HIT 120+PIPS PROFIT DONE --> No translation was found using the current translator. Try another translator?
+⚠️ فشلت ترجمة المنشور 7331 - راح يترسل بالإنجليزي كما هو (𝗫𝗔𝗨𝗨𝗦𝗗 ✅✅✅✅✅✅
+TP3 HIT 120+PIPS PROFIT DONE --> No translation was found using the current translator. Try another translator?)
+↩️ المنشور 7331 رد على المنشور 7328 (بقناتك: 6655)
+   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6658,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7331 مع صورة واحدة
+↩️ تأكيد: تم إرسال المنشور 7331 كرد حقيقي على رسالتك رقم 6655 بقناتك ✅
+✅ تم نسخ المنشور 7331 بنجاح
+🔄 معالجة المنشور رقم 7332...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7332 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7332): 𝗫𝗔𝗨𝗨𝗦𝗗 ✅✅✅✅✅✅
+TP4 HIT 160+PIPS PROFIT DONE --> No translation was found using the current translator. Try another translator?
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7332): 𝗫𝗔𝗨𝗨𝗦𝗗 ✅✅✅✅✅✅
+TP4 HIT 160+PIPS PROFIT DONE --> No translation was found using the current translator. Try another translator?
+⚠️ فشلت ترجمة المنشور 7332 - راح يترسل بالإنجليزي كما هو (𝗫𝗔𝗨𝗨𝗦𝗗 ✅✅✅✅✅✅
+TP4 HIT 160+PIPS PROFIT DONE --> No translation was found using the current translator. Try another translator?)
+↩️ المنشور 7332 رد على المنشور 7328 (بقناتك: 6655)
+   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6659,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7332 مع صورة واحدة
+↩️ تأكيد: تم إرسال المنشور 7332 كرد حقيقي على رسالتك رقم 6655 بقناتك ✅
+✅ تم نسخ المنشور 7332 بنجاح
+🔄 معالجة المنشور رقم 7333...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7333 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7333): Check my work 👆👆👆👆 --> No translation was found using the current translator. Try another translator?
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7333): Check my work 👆👆👆👆 --> No translation was found using the current translator. Try another translator?
+⚠️ فشلت ترجمة المنشور 7333 - راح يترسل بالإنجليزي كما هو (Check my work 👆👆👆👆 --> No translation was found using the current translator. Try another translator?)
+↩️ المنشور 7333 رد على المنشور 7328 (بقناتك: 6655)
+   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6660,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7333 مع صورة واحدة
+↩️ تأكيد: تم إرسال المنشور 7333 كرد حقيقي على رسالتك رقم 6655 بقناتك ✅
+✅ تم نسخ المنشور 7333 بنجاح
+🔄 معالجة المنشور رقم 7334...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7334 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7334): 𝗫𝗔𝗨𝗨𝗦𝗗 ✅✅✅✅✅✅
+TP5 HIT 200+PIPS PROFIT DONE --> No translation was found using the current translator. Try another translator?
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7334): 𝗫𝗔𝗨𝗨𝗦𝗗 ✅✅✅✅✅✅
+TP5 HIT 200+PIPS PROFIT DONE --> No translation was found using the current translator. Try another translator?
+⚠️ فشلت ترجمة المنشور 7334 - راح يترسل بالإنجليزي كما هو (𝗫𝗔𝗨𝗨𝗦𝗗 ✅✅✅✅✅✅
+TP5 HIT 200+PIPS PROFIT DONE --> No translation was found using the current translator. Try another translator?)
+↩️ المنشور 7334 رد على المنشور 7328 (بقناتك: 6655)
+   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6661,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7334 مع صورة واحدة
+↩️ تأكيد: تم إرسال المنشور 7334 كرد حقيقي على رسالتك رقم 6655 بقناتك ✅
+✅ تم نسخ المنشور 7334 بنجاح
+🔄 معالجة المنشور رقم 7335...
+🔏 المصدر سوى توقيعه بهالمنشور - راح يُحذف ويُضاف توقيعك بدله بعد الترجمة
+✏️ تم تنظيف نص المنشور 7335 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7335): Account Management Services Available 
+
+Min.... 200$ 
+Profit split 50/50 --> No translation was found using the current translator. Try another translator?
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7335): Account Management Services Available 
+
+Min.... 200$ 
+Profit split 50/50 --> No translation was found using the current translator. Try another translator?
+⚠️ فشلت ترجمة المنشور 7335 - راح يترسل بالإنجليزي كما هو (Account Management Services Available 
+
+Min.... 200$ 
+Profit split 50/50 --> No translation was found using the current translator. Try another translator?)
+↩️ المنشور 7335 رد على المنشور 7328 (بقناتك: 6655)
+   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6662,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7335 كنص فقط (بدون صورة)
+↩️ تأكيد: تم إرسال المنشور 7335 كرد حقيقي على رسالتك رقم 6655 بقناتك ✅
+✅ تم نسخ المنشور 7335 بنجاح
