@@ -1,26 +1,3 @@
-✏️ تم تنظيف نص المنشور 7376 (حذف توقيع المصدر إن وجد)
-⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7376): https://i.ecmarkets.com/api/client/pm/2/P26TR
-
-
-
-Create account  broker 
-
-Bestest broker in trading way 
-
-
-5 minute deposit and 5 minute withdrawal 
-
-Unlimited leavrag 
-
-Join us now
-
-Refeeral code P26TR --> No translation was found using the current translator. Try another translator?
-⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7376): https://i.ecmarkets.com/api/client/pm/2/P26TR
-
-
-
-Create account  broker 
-
 Bestest broker in trading way 
 
 
@@ -298,3 +275,26 @@ I'll Recover your all  lost money Safe Trading Mt4 Mt5 --> No translation was f
 🤖 البوت اشتغل - يتحقق من منشورات جديدة...
 📍 يراقب من المنشور رقم: 7391
 ℹ️ ما فيه منشورات جديدة هالمرة.
+--- 2026-09-11 13:53:00 UTC ---
+==================================================
+🤖 البوت اشتغل - يتحقق من منشورات جديدة...
+📍 يراقب من المنشور رقم: 7391
+📊 عدد المنشورات الجديدة: 2
+🔄 معالجة المنشور رقم 7392...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7392 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7392): Hello guys ready CPI --> No translation was found using the current translator. Try another translator?
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7392): Hello guys ready CPI --> No translation was found using the current translator. Try another translator?
+⚠️ فشلت ترجمة المنشور 7392 - راح يترسل بالإنجليزي كما هو (Hello guys ready CPI --> No translation was found using the current translator. Try another translator?)
+   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6719,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7392 كنص فقط (بدون صورة)
+✅ تم نسخ المنشور 7392 بنجاح
+🔄 معالجة المنشور رقم 7393...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7393 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7393): Hello guys ready --> No translation was found using the current translator. Try another translator?
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7393): Hello guys ready --> No translation was found using the current translator. Try another translator?
+⚠️ فشلت ترجمة المنشور 7393 - راح يترسل بالإنجليزي كما هو (Hello guys ready --> No translation was found using the current translator. Try another translator?)
+   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6720,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7393 كنص فقط (بدون صورة)
+✅ تم نسخ المنشور 7393 بنجاح
