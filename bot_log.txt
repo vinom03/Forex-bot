@@ -1,8 +1,3 @@
-✏️ تم تنظيف نص المنشور 7391 (حذف توقيع المصدر إن وجد)
-⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7391): Safe account management available  here 
-No Risk 
-No loss 
-All investor don't worry I'll help you 
 I'll Recover your all  lost money Safe Trading Mt4 Mt5 --> No translation was found using the current translator. Try another translator?
 ⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7391): Safe account management available  here 
 No Risk 
@@ -294,6 +289,11 @@ I'll Recover your all  lost money Safe Trading Mt4 Mt5 --> No translation was f
 📤 تم إرسال المنشور 7408 كنص فقط (بدون صورة)
 ✅ تم نسخ المنشور 7408 بنجاح
 --- 2026-09-14 21:49:24 UTC ---
+==================================================
+🤖 البوت اشتغل - يتحقق من منشورات جديدة...
+📍 يراقب من المنشور رقم: 7408
+ℹ️ ما فيه منشورات جديدة هالمرة.
+--- 2026-09-15 00:01:07 UTC ---
 ==================================================
 🤖 البوت اشتغل - يتحقق من منشورات جديدة...
 📍 يراقب من المنشور رقم: 7408
