@@ -1,19 +1,3 @@
-==================================================
-🤖 البوت اشتغل - يتحقق من منشورات جديدة...
-📍 يراقب من المنشور رقم: 7418
-📊 عدد المنشورات الجديدة: 8
-🔄 معالجة المنشور رقم 7419...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7419 (حذف توقيع المصدر إن وجد)
-⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7419): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
-⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7419): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
-⚠️ فشلت ترجمة المنشور 7419 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
-   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6744,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7419 كنص فقط (بدون صورة)
-✅ تم نسخ المنشور 7419 بنجاح
-🔄 معالجة المنشور رقم 7420...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7420 (حذف توقيع المصدر إن وجد)
 ⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7420): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
 ⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7420): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
 ⚠️ فشلت ترجمة المنشور 7420 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
@@ -298,3 +282,19 @@
 🤖 البوت اشتغل - يتحقق من منشورات جديدة...
 📍 يراقب من المنشور رقم: 7440
 ℹ️ ما فيه منشورات جديدة هالمرة.
+--- 2026-09-19 17:28:13 UTC ---
+==================================================
+🤖 البوت اشتغل - يتحقق من منشورات جديدة...
+📍 يراقب من المنشور رقم: 7440
+📊 عدد المنشورات الجديدة: 1
+🔄 معالجة المنشور رقم 7441...
+🔏 المصدر سوى توقيعه بهالمنشور - راح يُحذف ويُضاف توقيعك بدله بعد الترجمة
+✏️ تم تنظيف نص المنشور 7441 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7441): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7441): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ فشلت ترجمة المنشور 7441 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
+↩️ المنشور 7441 رد على المنشور 7434 (بقناتك: 6759)
+   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6766,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7441 كنص فقط (بدون صورة)
+↩️ تأكيد: تم إرسال المنشور 7441 كرد حقيقي على رسالتك رقم 6759 بقناتك ✅
+✅ تم نسخ المنشور 7441 بنجاح
