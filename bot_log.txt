@@ -1,8 +1,3 @@
-📤 تم إرسال المنشور 7436 مع صورة واحدة
-↩️ تأكيد: تم إرسال المنشور 7436 كرد حقيقي على رسالتك رقم 6759 بقناتك ✅
-✅ تم نسخ المنشور 7436 بنجاح
-🔄 معالجة المنشور رقم 7437...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
 ✏️ تم تنظيف نص المنشور 7437 (حذف توقيع المصدر إن وجد)
 ⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7437): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
 ⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7437): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
@@ -298,3 +293,8 @@
 📤 تم إرسال المنشور 7454 كنص فقط (بدون صورة)
 ↩️ تأكيد: تم إرسال المنشور 7454 كرد حقيقي على رسالتك رقم 6770 بقناتك ✅
 ✅ تم نسخ المنشور 7454 بنجاح
+--- 2026-09-21 22:10:25 UTC ---
+==================================================
+🤖 البوت اشتغل - يتحقق من منشورات جديدة...
+📍 يراقب من المنشور رقم: 7454
+ℹ️ ما فيه منشورات جديدة هالمرة.
