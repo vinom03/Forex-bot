@@ -1,83 +1,3 @@
-🤖 البوت اشتغل - يتحقق من منشورات جديدة...
-📍 يراقب من المنشور رقم: 7513
-ℹ️ ما فيه منشورات جديدة هالمرة.
---- 2026-09-28 07:44:04 UTC ---
-==================================================
-🤖 البوت اشتغل - يتحقق من منشورات جديدة...
-📍 يراقب من المنشور رقم: 7513
-ℹ️ ما فيه منشورات جديدة هالمرة.
---- 2026-09-28 16:01:52 UTC ---
-==================================================
-🤖 البوت اشتغل - يتحقق من منشورات جديدة...
-📍 يراقب من المنشور رقم: 7513
-📊 عدد المنشورات الجديدة: 6
-🔄 معالجة المنشور رقم 7514...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7514 (حذف توقيع المصدر إن وجد)
-⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7514): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
-⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7514): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
-⚠️ فشلت ترجمة المنشور 7514 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
-   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6838,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7514 كنص فقط (بدون صورة)
-✅ تم نسخ المنشور 7514 بنجاح
-🔄 معالجة المنشور رقم 7515...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7515 (حذف توقيع المصدر إن وجد)
-⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7515): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
-⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7515): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
-⚠️ فشلت ترجمة المنشور 7515 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
-   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6839,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7515 كنص فقط (بدون صورة)
-✅ تم نسخ المنشور 7515 بنجاح
-🔄 معالجة المنشور رقم 7516...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7516 (حذف توقيع المصدر إن وجد)
-⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7516): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
-⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7516): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
-⚠️ فشلت ترجمة المنشور 7516 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
-↩️ المنشور 7516 رد على المنشور 7515 (بقناتك: 6839)
-   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6840,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7516 مع صورة واحدة
-↩️ تأكيد: تم إرسال المنشور 7516 كرد حقيقي على رسالتك رقم 6839 بقناتك ✅
-✅ تم نسخ المنشور 7516 بنجاح
-🔄 معالجة المنشور رقم 7517...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7517 (حذف توقيع المصدر إن وجد)
-⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7517): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
-⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7517): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
-⚠️ فشلت ترجمة المنشور 7517 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
-↩️ المنشور 7517 رد على المنشور 7515 (بقناتك: 6839)
-   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6841,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7517 مع صورة واحدة
-↩️ تأكيد: تم إرسال المنشور 7517 كرد حقيقي على رسالتك رقم 6839 بقناتك ✅
-✅ تم نسخ المنشور 7517 بنجاح
-🔄 معالجة المنشور رقم 7518...
-ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
-✏️ تم تنظيف نص المنشور 7518 (حذف توقيع المصدر إن وجد)
-⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7518): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
-⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7518): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
-⚠️ فشلت ترجمة المنشور 7518 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
-↩️ المنشور 7518 رد على المنشور 7515 (بقناتك: 6839)
-   ↳ رد تيليجرام (ألبوم): 200 {"ok":true,"result":[{"message_id":6842,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","use
-📤 تم إرسال المنشور 7518 مع ألبوم من 2 صور
-↩️ تأكيد: تم إرسال المنشور 7518 كرد حقيقي على رسالتك رقم 6839 بقناتك ✅
-✅ تم نسخ المنشور 7518 بنجاح
-🔄 معالجة المنشور رقم 7520...
-🔏 المصدر سوى توقيعه بهالمنشور - راح يُحذف ويُضاف توقيعك بدله بعد الترجمة
-✏️ تم تنظيف نص المنشور 7520 (حذف توقيع المصدر إن وجد)
-⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7520): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
-⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7520): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
-⚠️ فشلت ترجمة المنشور 7520 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
-↩️ المنشور 7520 رد على منشور 7519 مو موجود بدفتر المطابقة - بيترسل عادي بدون رد
-   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6844,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
-📤 تم إرسال المنشور 7520 كنص فقط (بدون صورة)
-✅ تم نسخ المنشور 7520 بنجاح
---- 2026-09-28 21:50:40 UTC ---
-==================================================
-🤖 البوت اشتغل - يتحقق من منشورات جديدة...
-📍 يراقب من المنشور رقم: 7520
-ℹ️ ما فيه منشورات جديدة هالمرة.
---- 2026-09-29 01:18:48 UTC ---
 ==================================================
 🤖 البوت اشتغل - يتحقق من منشورات جديدة...
 📍 يراقب من المنشور رقم: 7520
@@ -298,3 +218,83 @@
    ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6862,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
 📤 تم إرسال المنشور 7538 كنص فقط (بدون صورة)
 ✅ تم نسخ المنشور 7538 بنجاح
+--- 2026-09-30 15:00:25 UTC ---
+==================================================
+🤖 البوت اشتغل - يتحقق من منشورات جديدة...
+📍 يراقب من المنشور رقم: 7538
+📊 عدد المنشورات الجديدة: 7
+🔄 معالجة المنشور رقم 7539...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7539 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7539): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7539): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ فشلت ترجمة المنشور 7539 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
+   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6863,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7539 كنص فقط (بدون صورة)
+✅ تم نسخ المنشور 7539 بنجاح
+🔄 معالجة المنشور رقم 7540...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7540 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7540): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7540): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ فشلت ترجمة المنشور 7540 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
+↩️ المنشور 7540 رد على المنشور 7539 (بقناتك: 6863)
+   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6864,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7540 مع صورة واحدة
+↩️ تأكيد: تم إرسال المنشور 7540 كرد حقيقي على رسالتك رقم 6863 بقناتك ✅
+✅ تم نسخ المنشور 7540 بنجاح
+🔄 معالجة المنشور رقم 7541...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7541 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7541): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7541): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ فشلت ترجمة المنشور 7541 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
+↩️ المنشور 7541 رد على المنشور 7539 (بقناتك: 6863)
+   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6865,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7541 مع صورة واحدة
+↩️ تأكيد: تم إرسال المنشور 7541 كرد حقيقي على رسالتك رقم 6863 بقناتك ✅
+✅ تم نسخ المنشور 7541 بنجاح
+🔄 معالجة المنشور رقم 7542...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7542 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7542): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7542): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ فشلت ترجمة المنشور 7542 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
+↩️ المنشور 7542 رد على المنشور 7539 (بقناتك: 6863)
+   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6866,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7542 مع صورة واحدة
+↩️ تأكيد: تم إرسال المنشور 7542 كرد حقيقي على رسالتك رقم 6863 بقناتك ✅
+✅ تم نسخ المنشور 7542 بنجاح
+🔄 معالجة المنشور رقم 7543...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7543 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7543): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7543): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ فشلت ترجمة المنشور 7543 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
+↩️ المنشور 7543 رد على المنشور 7539 (بقناتك: 6863)
+   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6867,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7543 مع صورة واحدة
+↩️ تأكيد: تم إرسال المنشور 7543 كرد حقيقي على رسالتك رقم 6863 بقناتك ✅
+✅ تم نسخ المنشور 7543 بنجاح
+🔄 معالجة المنشور رقم 7544...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7544 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7544): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7544): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ فشلت ترجمة المنشور 7544 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
+↩️ المنشور 7544 رد على المنشور 7539 (بقناتك: 6863)
+   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6868,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7544 مع صورة واحدة
+↩️ تأكيد: تم إرسال المنشور 7544 كرد حقيقي على رسالتك رقم 6863 بقناتك ✅
+✅ تم نسخ المنشور 7544 بنجاح
+🔄 معالجة المنشور رقم 7545...
+ℹ️ المصدر ما سوى أي توقيع بهالمنشور - راح يترسل نظيف بدون توقيع
+✏️ تم تنظيف نص المنشور 7545 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 7545): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 7545): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ فشلت ترجمة المنشور 7545 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
+↩️ المنشور 7545 رد على المنشور 7539 (بقناتك: 6863)
+   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6869,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 7545 مع صورة واحدة
+↩️ تأكيد: تم إرسال المنشور 7545 كرد حقيقي على رسالتك رقم 6863 بقناتك ✅
+✅ تم نسخ المنشور 7545 بنجاح
