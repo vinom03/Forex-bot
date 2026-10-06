@@ -79,7 +79,7 @@ if not BOT_TOKEN:
     )
 
 DEST_CHANNEL = "@CRYPTO_FUTUERS2"      # 🔧 قناتك (وين يترسل المنشور)
-SOURCE_CHANNEL = "XAUUSD_GOLD_SIGNGNALS_786"  # 🔧 القناة المصدر (منين يُجلب المنشور)
+SOURCE_CHANNEL = "Crypto_jack10"  # 🔧 القناة المصدر (منين يُجلب المنشور)
 
 TELEGRAM_CAPTION_LIMIT = 1024  # حد تيليجرام لطول الكابشن مع الصور
 
@@ -234,7 +234,7 @@ def clean_text(text_html):
 
     text = re.sub(r'[\u200b\u200c\u200d\u200e\u200f\ufeff]', '', text)
 
-    signature_line = re.compile(r'@GOLD_PRO804', re.IGNORECASE)  # 🔧 توقيع القناة المصدر
+    signature_line = re.compile(r'@jack_future_crypto', re.IGNORECASE)  # 🔧 توقيع القناة المصدر
     link_line = re.compile(r'(t\.me|telegram\.me)/', re.IGNORECASE)
     arabic_diacritics = re.compile(r'[\u064B-\u065F\u0670\u06D6-\u06ED]')
 
