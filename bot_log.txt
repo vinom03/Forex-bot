@@ -270,3 +270,19 @@
 🤖 البوت اشتغل - يتحقق من منشورات جديدة...
 📍 يراقب من المنشور رقم: 161
 ℹ️ ما فيه منشورات جديدة هالمرة.
+--- 2026-10-15 21:47:37 UTC ---
+==================================================
+🤖 البوت اشتغل - يتحقق من منشورات جديدة...
+📍 يراقب من المنشور رقم: 161
+📊 عدد المنشورات الجديدة: 1
+🔄 معالجة المنشور رقم 162...
+🔏 المصدر سوى توقيعه بهالمنشور - راح يُحذف ويُضاف توقيعك بدله بعد الترجمة
+✏️ تم تنظيف نص المنشور 162 (حذف توقيع المصدر إن وجد)
+⚠️ محاولة 1/2 فشلت (ترجمة المنشور 162): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ محاولة 2/2 فشلت (ترجمة المنشور 162): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
+⚠️ فشلت ترجمة المنشور 162 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
+↩️ المنشور 162 رد على المنشور 161 (بقناتك: 6875)
+   ↳ رد تيليجرام (صورة): 200 {"ok":true,"result":{"message_id":6876,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
+📤 تم إرسال المنشور 162 مع صورة واحدة
+↩️ تأكيد: تم إرسال المنشور 162 كرد حقيقي على رسالتك رقم 6875 بقناتك ✅
+✅ تم نسخ المنشور 162 بنجاح
