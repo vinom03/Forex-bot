@@ -1,8 +1,3 @@
-📍 يراقب من المنشور رقم: 155
-📊 عدد المنشورات الجديدة: 2
-🔄 معالجة المنشور رقم 156...
-🔏 المصدر سوى توقيعه بهالمنشور - راح يُحذف ويُضاف توقيعك بدله بعد الترجمة
-✏️ تم تنظيف نص المنشور 156 (حذف توقيع المصدر إن وجد)
 ⚠️ محاولة 1/2 فشلت (ترجمة المنشور 156): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
 ⚠️ محاولة 2/2 فشلت (ترجمة المنشور 156): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
 ⚠️ فشلت ترجمة المنشور 156 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
@@ -294,6 +289,11 @@
 📍 يراقب من المنشور رقم: 162
 ℹ️ ما فيه منشورات جديدة هالمرة.
 --- 2026-10-17 08:52:33 UTC ---
+==================================================
+🤖 البوت اشتغل - يتحقق من منشورات جديدة...
+📍 يراقب من المنشور رقم: 162
+ℹ️ ما فيه منشورات جديدة هالمرة.
+--- 2026-10-17 12:30:04 UTC ---
 ==================================================
 🤖 البوت اشتغل - يتحقق من منشورات جديدة...
 📍 يراقب من المنشور رقم: 162
