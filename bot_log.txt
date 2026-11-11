@@ -1,8 +1,3 @@
-⚠️ محاولة 1/2 فشلت (ترجمة المنشور 165): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
-⚠️ محاولة 2/2 فشلت (ترجمة المنشور 165): Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function
-⚠️ فشلت ترجمة المنشور 165 - راح يترسل بالإنجليزي كما هو (Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function)
-↩️ المنشور 165 رد على المنشور 160 (بقناتك: 6874)
-   ↳ رد تيليجرام (نص): 200 {"ok":true,"result":{"message_id":6879,"from":{"id":8793085314,"is_bot":true,"first_name":"Forex Gold Forward Bot","username":"ForexGoldForward_bot"},"chat":{"id":-1002141156918,"title":"Crypto","user
 📤 تم إرسال المنشور 165 كنص فقط (بدون صورة)
 ↩️ تأكيد: تم إرسال المنشور 165 كرد حقيقي على رسالتك رقم 6874 بقناتك ✅
 ✅ تم نسخ المنشور 165 بنجاح
@@ -294,6 +289,11 @@
 📍 يراقب من المنشور رقم: 169
 ℹ️ ما فيه منشورات جديدة هالمرة.
 --- 2026-11-11 09:13:29 UTC ---
+==================================================
+🤖 البوت اشتغل - يتحقق من منشورات جديدة...
+📍 يراقب من المنشور رقم: 169
+ℹ️ ما فيه منشورات جديدة هالمرة.
+--- 2026-11-11 17:08:10 UTC ---
 ==================================================
 🤖 البوت اشتغل - يتحقق من منشورات جديدة...
 📍 يراقب من المنشور رقم: 169
